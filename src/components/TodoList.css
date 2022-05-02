@@ -1,0 +1,19 @@
+.list {
+  margin: auto;
+  width: 40%;
+  height: 50vh;
+  background-color: rgba(230, 184, 98, 0.445);
+  border-radius: 10px;
+  overflow: scroll;
+}
+.map {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.buttons {
+  display: flex;
+}
